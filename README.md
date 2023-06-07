@@ -5,5 +5,5 @@
     Subject: First Project On Github
 
     This project was created to learn how to upload
-    projects on Github....
+    projects on Github...
 ---- 
